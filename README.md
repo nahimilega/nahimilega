@@ -2,7 +2,15 @@
 
 ![snake gif](https://github.com/nahimilega/nahimilega/blob/output/github-contribution-grid-snake.gif) 
 
-Aaaaa someone is eating my contribution !!!
+#### Aaaaa someone is eating my contribution !!!  
+
+
+#### Well the funny part is 
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+
 <!--
 **nahimilega/nahimilega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
